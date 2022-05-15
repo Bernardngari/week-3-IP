@@ -12,4 +12,6 @@ h1, h2{
 form#test{
   background-color: rgb(189, 178, 178);
   margin-top: 50px;
+  width: 800px;
+  height: 540px;
 }
