@@ -11,13 +11,17 @@ h1, h2{
 
 form#test{
   background-color: rgb(189, 178, 178);
-  margin-top: 50px;
+  margin-top: 20px;
   width: 800px;
-  height: 540px;
+  height: 500px;
   overflow:scroll;
   font-size: x-large;
   margin-left: 400px;
   padding-left: 40px;
   border: double black 5px;
   border-radius: 10px;
+}
+
+#instructions{
+  background-color: brown;
 }
