@@ -1,6 +1,9 @@
 h1, h2,h3, #instructions{
   text-align: center;
 }
+span#red{
+  color: red;
+}
 
 
 
