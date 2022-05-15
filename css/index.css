@@ -17,4 +17,5 @@ form#test{
   overflow:scroll;
   font-size: x-large;
   margin-left: 400px;
+  padding-left: 40px;
 }
