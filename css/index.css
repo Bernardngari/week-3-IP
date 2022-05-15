@@ -28,7 +28,7 @@ form#test{
 }
 input#Submit{
   background-color: blueviolet;
-  border: solid red 5px;
+  border: solid rgb(94, 255, 0) 5px;
   border-radius: 10px;
   height: 40px;
   color: white;
@@ -57,7 +57,7 @@ div#scoreCard{
 }
 
 #output{
-  background-color: yellowgreen;
+  background-color: blueviolet;
   height: 50px;
   font-size: xx-large;
 }
