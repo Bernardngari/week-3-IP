@@ -20,10 +20,11 @@ form#test{
   padding-left: 40px;
   border: double black 5px;
   border-radius: 10px;
+  border-color: blue;
 }
 
 #instructions{
-  background-color: brown;
+  background-color: greenyellow;
 }
 input#Submit{
   background-color: blueviolet;
@@ -33,4 +34,7 @@ input#Submit{
   color: white;
   margin-left: 300px;
   font-size: 20px;
+}
+h1{
+  background-color: blueviolet;
 }
