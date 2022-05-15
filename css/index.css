@@ -5,9 +5,11 @@ span#red{
   color: red;
 }
 
-
-
+h1, h2{
+  text-decoration: underline;
+}
 
 form#test{
   background-color: rgb(189, 178, 178);
+  margin-top: 50px;
 }
