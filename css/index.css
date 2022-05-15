@@ -15,4 +15,5 @@ form#test{
   width: 800px;
   height: 540px;
   overflow:scroll;
+  font-size: x-large;
 }
