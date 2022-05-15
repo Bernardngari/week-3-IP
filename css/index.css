@@ -36,7 +36,7 @@ input#Submit{
   font-size: 20px;
 }
 h1{
-  background-color: blueviolet;
+  background-color: rgba(49, 45, 48, 0.562);
 }
 
 div#align{
@@ -60,4 +60,8 @@ div#scoreCard{
   background-color: blueviolet;
   height: 50px;
   font-size: xx-large;
+}
+
+#bold{
+  font-weight: bolder;
 }

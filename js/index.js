@@ -1,4 +1,3 @@
-/** @format */
 
 function score ()
 {
@@ -54,7 +53,17 @@ function score ()
   {
     marks += 10;
   };
-  output.textContent=marks
-   
+  output.textContent = marks;
+
+  if (marks<50) {
+    remark.textContent = ( "Poor perfomance. Retake test." );
+  }
+   else if (marks>=50 && marks<=80) {
+    remark.textContent = ( "Fairly passed." );
+  }
+  else 
+  {
+    remark.textContent=("Excellently passed!") 
+   }
 
 }
