@@ -64,4 +64,11 @@ div#scoreCard{
 
 #bold{
   font-weight: bolder;
+
+}
+
+#scoreCard{
+  background-color: aqua;
+  border: solid black 3px;
+  border-radius: 10px;
 }
